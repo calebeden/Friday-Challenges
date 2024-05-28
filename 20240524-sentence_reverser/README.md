@@ -1,6 +1,6 @@
 # Friday Challenge 1 (2024-05-24) #
 
-My function I am submitting can be found in [reverse_sentence.c](reverse_sentence.c), and the code I used to test it can be found in [main.c](main.c).
+My function I am submitting can be found in [reverse_sentence.c](reverse_sentence.c), and the code I used to test it can be found in [main.c](main.c). I have also uploaded this to [OnlineGDB](https://onlinegdb.com/4e-m39E7a) to run it which maybe will not be blocked like Replit.
 
 ## Solution Explanation ##
 
